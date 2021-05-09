@@ -1,5 +1,5 @@
-var cacheName = 'hello-pwa';
-var filesToCache = [
+//var cacheName = 'hello-pwa';
+//var filesToCache = [
   '/',
   '/index.html',
   '/css/style.css',
