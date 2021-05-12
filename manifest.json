@@ -1,6 +1,6 @@
 {
-  "name": "Hi Mom",
-  "short_name": "Hi Mom",
+  "name": "Hello World",
+  "short_name": "Hello",
   "icons": [{
     "src": "images/hello-icon-128.png",
       "sizes": "128x128",
@@ -29,6 +29,6 @@
   "lang": "en-US",
   "start_url": "/index.html",
   "display": "standalone",
-  "background_color": "#D1006F",
-  "theme_color": "#D1006F"
+  "background_color": "white",
+  "theme_color": "white"
 }
